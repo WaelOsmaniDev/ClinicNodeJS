@@ -1,0 +1,28 @@
+{
+  "name": "clinicnodejs",
+  "version": "1.0.0",
+  "description": "simple node.js server for patient management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaelOsmaniDev/ClinicNodeJS.git"
+  },
+  "dependencies": {
+    "express": "4.16.3"
+  },
+  "engine": "node>=8.12.0",
+  "keywords": [
+    "node.js",
+    "patient",
+    "management"
+  ],
+  "author": "Wael Osmani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaelOsmaniDev/ClinicNodeJS/issues"
+  },
+  "homepage": "https://github.com/WaelOsmaniDev/ClinicNodeJS#readme"
+}
